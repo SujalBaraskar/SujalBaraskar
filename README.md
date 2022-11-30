@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujalBaraskar
 - 👀 I’m interested in computer programming and I like to explore more and more programming languages as much as I can.
-- 🌱 I’m currently learning Web Devlopment.
+- 🌱 I’m currently learning Web Devlopment and c++
 - 📫 You can reach me through my email: sjlmywayo45@gmail.com
 
 <!---
